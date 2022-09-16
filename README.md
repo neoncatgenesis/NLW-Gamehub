@@ -10,7 +10,7 @@
 
 A simple and cute Linktree alternative for gamers.
 
-- [Demo](https://neoncatgenesisgithub.io/NLW-Gamehub/)
+- [Demo](https://neoncatgenesis.github.io/NLW-Gamehub/)
 
 ## 🛠️ Languages useded
 
@@ -21,4 +21,3 @@ A simple and cute Linktree alternative for gamers.
 ## 🕹️ NLW eSports
 
 This project was developt during **[Next Level Week eSports](https://nextlevelweek.com/)**, a event hosted by **[@Rocketseat 💜](https://github.com/Rocketseat)**
-

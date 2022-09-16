@@ -2,7 +2,7 @@
     <img src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg">
 </h1>
 
-#NLW GameHub
+# NLW GameHub
 
 ![preview](./github/preview.png)
 
